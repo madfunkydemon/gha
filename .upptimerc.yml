@@ -7,7 +7,7 @@ sites:
     url: https://www.google.com
   - name: thewayeye
     url: https://thewayeye.net
-    icon: https://thewayeye.net/favicon.ico
+#    icon: https://thewayeye.net/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
