@@ -12,11 +12,11 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: ecco.thewayeye
+    url: https://ecco.thewayeye.net
   - name: thewayeye
     url: https://thewayeye.net
-#    icon: https://thewayeye.net/favicon.ico
+    icon: https://thewayeye.net/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
