@@ -12,8 +12,8 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 sites:
-  - name: ecco.thewayeye
-    url: https://ecco.thewayeye.net
+  - name: echo.thewayeye
+    url: https://echo.thewayeye.net
   - name: thewayeye
     url: https://thewayeye.net
     icon: https://thewayeye.net/favicon.ico
