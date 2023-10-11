@@ -1,26 +1,28 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "ecco.thewayeye",
+    "url": "https://ecco.thewayeye.net",
+    "icon": "https://icons.duckduckgo.com/ip3/ecco.thewayeye.net.ico",
+    "slug": "ecco-thewayeye",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 78,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 78,
-    "dailyMinutesDown": {}
+    "uptime": "14.16%",
+    "uptimeDay": "14.16%",
+    "uptimeWeek": "14.16%",
+    "uptimeMonth": "14.16%",
+    "uptimeYear": "14.16%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-10-11": 0
+    }
   },
   {
     "name": "thewayeye",
     "url": "https://thewayeye.net",
-    "icon": "https://icons.duckduckgo.com/ip3/thewayeye.net.ico",
+    "icon": "https://thewayeye.net/favicon.ico",
     "slug": "thewayeye",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   }
 ]
