@@ -1,23 +1,21 @@
 [
   {
-    "name": "ecco.thewayeye",
-    "url": "https://ecco.thewayeye.net",
-    "icon": "https://icons.duckduckgo.com/ip3/ecco.thewayeye.net.ico",
-    "slug": "ecco-thewayeye",
-    "status": "down",
-    "uptime": "10.28%",
-    "uptimeDay": "10.28%",
-    "uptimeWeek": "10.28%",
-    "uptimeMonth": "10.28%",
-    "uptimeYear": "10.28%",
+    "name": "echo.thewayeye",
+    "url": "https://echo.thewayeye.net",
+    "icon": "https://icons.duckduckgo.com/ip3/echo.thewayeye.net.ico",
+    "slug": "echo-thewayeye",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-10-11": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "thewayeye",
