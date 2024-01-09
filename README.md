@@ -1,8 +1,8 @@
 # [📈 Live Status](https://madfunkydemon.github.io/gha/): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [twe](https://thewayeye.net), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [twe](https://thewayeye.net).
 
-[![Uptime CI](https://github.com/madfunkydemon/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/madfunkydemon/upptime/actions?query=workflow%3A%22Uptime+CI%22)
+[![Uptime CI](https://github.com/madfunkydemon/gha/workflows/Uptime%20CI/badge.svg)](https://github.com/madfunkydemon/gha/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/madfunkydemon/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/madfunkydemon/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/madfunkydemon/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/madfunkydemon/upptime/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/madfunkydemon/upptime/workflows/Static%20Site%20CI/badge.svg)](https://github.com/madfunkydemon/upptime/actions?query=workflow%3A%22Static+Site+CI%22)
