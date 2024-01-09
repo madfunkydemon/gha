@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://madfunkydemon.github.io/gha/): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [twe](https://thewayeye.net), powered by [Upptime](https://github.com/upptime/upptime).
 
