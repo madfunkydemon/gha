@@ -66,19 +66,19 @@
     "url": "https://thewayeye.net",
     "icon": "https://thewayeye.net/favicon.ico",
     "slug": "thewayeye-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 164,
-    "timeWeek": 164,
-    "timeMonth": 180,
-    "timeYear": 166,
+    "time": 170,
+    "timeDay": 369,
+    "timeWeek": 232,
+    "timeMonth": 198,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-06-20": 0
+      "2024-06-20": 6
     }
   }
 ]
