@@ -4,7 +4,7 @@
     "url": "https://echo.thewayeye.net",
     "icon": "https://icons.duckduckgo.com/ip3/echo.thewayeye.net.ico",
     "slug": "echo-thewayeye-net",
-    "status": "up",
+    "status": "down",
     "uptime": "84.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 527,
     "timeYear": 554,
     "dailyMinutesDown": {
+      "2025-02-18": 0,
       "2025-02-10": 597,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
