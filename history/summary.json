@@ -4,16 +4,16 @@
     "url": "https://echo.thewayeye.net",
     "icon": "https://icons.duckduckgo.com/ip3/echo.thewayeye.net.ico",
     "slug": "echo-thewayeye-net",
-    "status": "up",
-    "uptime": "86.88%",
+    "status": "down",
+    "uptime": "86.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "84.79%",
-    "time": 559,
-    "timeDay": 475,
-    "timeWeek": 507,
-    "timeMonth": 536,
+    "time": 558,
+    "timeDay": 424,
+    "timeWeek": 460,
+    "timeMonth": 533,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2025-04-21": 20,
@@ -106,8 +106,7 @@
       "2024-05-30": 41,
       "2024-05-24": 28,
       "2024-05-20": 35,
-      "2024-05-19": 35,
-      "2024-05-05": 18
+      "2024-05-19": 35
     }
   },
   {
@@ -122,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 170,
-    "timeWeek": 185,
-    "timeMonth": 199,
+    "timeDay": 200,
+    "timeWeek": 186,
+    "timeMonth": 201,
     "timeYear": 178,
     "dailyMinutesDown": {}
   }
