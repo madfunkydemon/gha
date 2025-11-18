@@ -8,7 +8,7 @@
     "uptime": "79.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
-    "uptimeMonth": "63.82%",
+    "uptimeMonth": "64.21%",
     "uptimeYear": "72.70%",
     "time": 577,
     "timeDay": 611,
@@ -147,19 +147,19 @@
     "url": "https://thewayeye.net",
     "icon": "https://thewayeye.net/favicon.ico",
     "slug": "thewayeye-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "88.10%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.97%",
     "time": 192,
-    "timeDay": 180,
-    "timeWeek": 180,
-    "timeMonth": 190,
+    "timeDay": 162,
+    "timeWeek": 174,
+    "timeMonth": 188,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 171
     }
   }
 ]
