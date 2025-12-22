@@ -5,18 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/echo.thewayeye.net.ico",
     "slug": "echo-thewayeye-net",
     "status": "down",
-    "uptime": "79.22%",
+    "uptime": "79.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "20.78%",
-    "uptimeMonth": "81.44%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "74.82%",
     "uptimeYear": "71.50%",
     "time": 582,
     "timeDay": 0,
-    "timeWeek": 1552,
-    "timeMonth": 663,
+    "timeWeek": 0,
+    "timeMonth": 676,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2025-12-20": 87,
+      "2025-12-22": 105,
+      "2025-12-21": 1440,
+      "2025-12-20": 1440,
       "2025-12-19": 1440,
       "2025-12-18": 1440,
       "2025-12-17": 1440,
@@ -143,9 +145,7 @@
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
-      "2024-12-23": 1440,
-      "2024-12-22": 1440,
-      "2024-12-21": 1440
+      "2024-12-23": 1440
     }
   },
   {
@@ -160,9 +160,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 191,
-    "timeDay": 150,
-    "timeWeek": 170,
-    "timeMonth": 173,
+    "timeDay": 200,
+    "timeWeek": 173,
+    "timeMonth": 166,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2025-11-18": 171
